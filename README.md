@@ -1,2 +1,2 @@
-# servley
+# servlet
 servlet
